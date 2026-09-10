@@ -22,7 +22,6 @@ The system retrieves multiple driving routes and evaluates the air quality along
 
 ![Route Comparison Chart](images/route-comparison.png)
 
-> **Note:** Add your actual screenshots inside the `images` folder using the filenames shown above.
 
 ---
 
